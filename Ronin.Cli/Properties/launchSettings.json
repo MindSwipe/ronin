@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ronin.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "--ignore-files ns_startup_args.txt ns_startup_args_dedi.txt"
+    }
+  }
+}
